@@ -32,9 +32,9 @@ Ideal for developers who need a simple and quick setup environment to test your 
 Enjoy!
 
 (CeosServer Version: 1.0; Apache version: 2.2.25)
-
-www.jbsolucoes.net/ceosserver
-JBS Soluções © 2013
+<p>
+www.jbsolucoes.net/ceosserver<br>
+JBS Soluções © 2013<br>
 sac@jbsolucoes.net
 
 
