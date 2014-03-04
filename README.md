@@ -1,4 +1,4 @@
-ceosserver
+CeosServer
 ==========
 
 CeosServer - FastCGI Application Server
