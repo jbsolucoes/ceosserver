@@ -1,0 +1,74 @@
+Installing Apache HTTP Server 2.x with
+ DomainName =    W7Dev.Home
+ ServerName =    W7Dev.Home
+ ServerAdmin =   admin@W7Dev.Home
+ ServerPort =    80
+ ServerSslPort = 443
+ ServerRoot =    C:/Program Files (x86)/Apache Software Foundation/Apache2.2
+Rewrote C:/Program Files (x86)/Apache Software Foundation/Apache2.2/conf/original/extra/httpd-autoindex.conf.in
+ to C:/Program Files (x86)/Apache Software Foundation/Apache2.2/conf/original/extra/httpd-autoindex.conf
+Successfully removed C:\Program Files (x86)\Apache Software Foundation\Apache2.2\conf\original\extra\httpd-autoindex.conf.in
+Rewrote C:/Program Files (x86)/Apache Software Foundation/Apache2.2/conf/original/extra/httpd-vhosts.conf.in
+ to C:/Program Files (x86)/Apache Software Foundation/Apache2.2/conf/original/extra/httpd-vhosts.conf
+Successfully removed C:\Program Files (x86)\Apache Software Foundation\Apache2.2\conf\original\extra\httpd-vhosts.conf.in
+Rewrote C:/Program Files (x86)/Apache Software Foundation/Apache2.2/conf/original/extra/httpd-default.conf.in
+ to C:/Program Files (x86)/Apache Software Foundation/Apache2.2/conf/original/extra/httpd-default.conf
+Successfully removed C:\Program Files (x86)\Apache Software Foundation\Apache2.2\conf\original\extra\httpd-default.conf.in
+Rewrote C:/Program Files (x86)/Apache Software Foundation/Apache2.2/conf/original/extra/httpd-manual.conf.in
+ to C:/Program Files (x86)/Apache Software Foundation/Apache2.2/conf/original/extra/httpd-manual.conf
+Successfully removed C:\Program Files (x86)\Apache Software Foundation\Apache2.2\conf\original\extra\httpd-manual.conf.in
+Rewrote C:/Program Files (x86)/Apache Software Foundation/Apache2.2/conf/original/extra/httpd-mpm.conf.in
+ to C:/Program Files (x86)/Apache Software Foundation/Apache2.2/conf/original/extra/httpd-mpm.conf
+Successfully removed C:\Program Files (x86)\Apache Software Foundation\Apache2.2\conf\original\extra\httpd-mpm.conf.in
+Rewrote C:/Program Files (x86)/Apache Software Foundation/Apache2.2/conf/original/extra/httpd-info.conf.in
+ to C:/Program Files (x86)/Apache Software Foundation/Apache2.2/conf/original/extra/httpd-info.conf
+Successfully removed C:\Program Files (x86)\Apache Software Foundation\Apache2.2\conf\original\extra\httpd-info.conf.in
+Rewrote C:/Program Files (x86)/Apache Software Foundation/Apache2.2/conf/original/extra/httpd-dav.conf.in
+ to C:/Program Files (x86)/Apache Software Foundation/Apache2.2/conf/original/extra/httpd-dav.conf
+Successfully removed C:\Program Files (x86)\Apache Software Foundation\Apache2.2\conf\original\extra\httpd-dav.conf.in
+Rewrote C:/Program Files (x86)/Apache Software Foundation/Apache2.2/conf/original/extra/httpd-languages.conf.in
+ to C:/Program Files (x86)/Apache Software Foundation/Apache2.2/conf/original/extra/httpd-languages.conf
+Successfully removed C:\Program Files (x86)\Apache Software Foundation\Apache2.2\conf\original\extra\httpd-languages.conf.in
+Rewrote C:/Program Files (x86)/Apache Software Foundation/Apache2.2/conf/original/httpd.conf.in
+ to C:/Program Files (x86)/Apache Software Foundation/Apache2.2/conf/original/httpd.conf
+Successfully removed C:\Program Files (x86)\Apache Software Foundation\Apache2.2\conf\original\httpd.conf.in
+Rewrote C:/Program Files (x86)/Apache Software Foundation/Apache2.2/conf/original/extra/httpd-userdir.conf.in
+ to C:/Program Files (x86)/Apache Software Foundation/Apache2.2/conf/original/extra/httpd-userdir.conf
+Successfully removed C:\Program Files (x86)\Apache Software Foundation\Apache2.2\conf\original\extra\httpd-userdir.conf.in
+Rewrote C:/Program Files (x86)/Apache Software Foundation/Apache2.2/conf/original/extra/httpd-ssl.conf.in
+ to C:/Program Files (x86)/Apache Software Foundation/Apache2.2/conf/original/extra/httpd-ssl.conf
+Successfully removed C:\Program Files (x86)\Apache Software Foundation\Apache2.2\conf\original\extra\httpd-ssl.conf.in
+Rewrote C:/Program Files (x86)/Apache Software Foundation/Apache2.2/conf/original/extra/httpd-multilang-errordoc.conf.in
+ to C:/Program Files (x86)/Apache Software Foundation/Apache2.2/conf/original/extra/httpd-multilang-errordoc.conf
+Successfully removed C:\Program Files (x86)\Apache Software Foundation\Apache2.2\conf\original\extra\httpd-multilang-errordoc.conf.in
+Duplicated C:/Program Files (x86)/Apache Software Foundation/Apache2.2/conf/original/magic
+ to C:/Program Files (x86)/Apache Software Foundation/Apache2.2/conf/magic
+Duplicated C:/Program Files (x86)/Apache Software Foundation/Apache2.2/conf/original/extra/httpd-autoindex.conf
+ to C:/Program Files (x86)/Apache Software Foundation/Apache2.2/conf/extra/httpd-autoindex.conf
+Duplicated C:/Program Files (x86)/Apache Software Foundation/Apache2.2/conf/original/extra/httpd-vhosts.conf
+ to C:/Program Files (x86)/Apache Software Foundation/Apache2.2/conf/extra/httpd-vhosts.conf
+Duplicated C:/Program Files (x86)/Apache Software Foundation/Apache2.2/conf/original/extra/httpd-default.conf
+ to C:/Program Files (x86)/Apache Software Foundation/Apache2.2/conf/extra/httpd-default.conf
+Duplicated C:/Program Files (x86)/Apache Software Foundation/Apache2.2/conf/original/mime.types
+ to C:/Program Files (x86)/Apache Software Foundation/Apache2.2/conf/mime.types
+Duplicated C:/Program Files (x86)/Apache Software Foundation/Apache2.2/conf/original/charset.conv
+ to C:/Program Files (x86)/Apache Software Foundation/Apache2.2/conf/charset.conv
+Duplicated C:/Program Files (x86)/Apache Software Foundation/Apache2.2/conf/original/extra/httpd-manual.conf
+ to C:/Program Files (x86)/Apache Software Foundation/Apache2.2/conf/extra/httpd-manual.conf
+Duplicated C:/Program Files (x86)/Apache Software Foundation/Apache2.2/conf/original/extra/httpd-mpm.conf
+ to C:/Program Files (x86)/Apache Software Foundation/Apache2.2/conf/extra/httpd-mpm.conf
+Duplicated C:/Program Files (x86)/Apache Software Foundation/Apache2.2/conf/original/extra/httpd-info.conf
+ to C:/Program Files (x86)/Apache Software Foundation/Apache2.2/conf/extra/httpd-info.conf
+Duplicated C:/Program Files (x86)/Apache Software Foundation/Apache2.2/conf/original/extra/httpd-dav.conf
+ to C:/Program Files (x86)/Apache Software Foundation/Apache2.2/conf/extra/httpd-dav.conf
+Duplicated C:/Program Files (x86)/Apache Software Foundation/Apache2.2/conf/original/extra/httpd-languages.conf
+ to C:/Program Files (x86)/Apache Software Foundation/Apache2.2/conf/extra/httpd-languages.conf
+Duplicated C:/Program Files (x86)/Apache Software Foundation/Apache2.2/conf/original/httpd.conf
+ to C:/Program Files (x86)/Apache Software Foundation/Apache2.2/conf/httpd.conf
+Duplicated C:/Program Files (x86)/Apache Software Foundation/Apache2.2/conf/original/extra/httpd-userdir.conf
+ to C:/Program Files (x86)/Apache Software Foundation/Apache2.2/conf/extra/httpd-userdir.conf
+Duplicated C:/Program Files (x86)/Apache Software Foundation/Apache2.2/conf/original/extra/httpd-ssl.conf
+ to C:/Program Files (x86)/Apache Software Foundation/Apache2.2/conf/extra/httpd-ssl.conf
+Duplicated C:/Program Files (x86)/Apache Software Foundation/Apache2.2/conf/original/extra/httpd-multilang-errordoc.conf
+ to C:/Program Files (x86)/Apache Software Foundation/Apache2.2/conf/extra/httpd-multilang-errordoc.conf
+Successfully removed C:\Program Files (x86)\Apache Software Foundation\Apache2.2\conf\original\installwinconf.awk
