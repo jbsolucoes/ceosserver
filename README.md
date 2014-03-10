@@ -20,7 +20,7 @@ With the configured server, can start the service by clicking the "Start Service
 
 After start the service, open in your browser address http://localhost:[port number] (http://localhost:89 by default) to check the service running.
 
-Visit http://localhost:[port number]/fcgitest (http://localhost:89/fcgitest by default) to access the FastCGI application configured with the alias fcgitest.
+Visit <pre>http://localhost:[port number]/fcgitest</pre> (http://localhost:89/fcgitest by default) to access the FastCGI application configured with the alias fcgitest.
 
 Now just set your FastCGI applications and put your web documents in webfiles folder (C:\CeosServer\webfiles by default ).
 
