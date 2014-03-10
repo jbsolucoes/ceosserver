@@ -18,7 +18,7 @@ Configure FastCGI applications by clicking the "Applications" button, and inform
 
 With the configured server, can start the service by clicking the "Start Service" button.
 
-After start the service, open in your browser address http://localhost:[port number] (http://localhost:89 by default) to check the service running.
+After start the service, open in your browser: <pre>http://localhost:[port number]</pre> (http://localhost:89 by default) to check the service running.
 
 Visit <pre>http://localhost:[port number]/fcgitest</pre> (http://localhost:89/fcgitest by default) to access the FastCGI application configured with the alias fcgitest.
 
